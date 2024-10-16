@@ -53,3 +53,7 @@ npm install
 
 # Run
 node index.js
+
+### Author
+
+[HackerRank Challenge](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
