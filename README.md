@@ -46,7 +46,7 @@ Step-by-step instructions on how to install the project.
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/ManuelaGar/ki-algorithm-test.git
 
 # Install dependencies
 npm install
